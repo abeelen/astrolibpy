@@ -1,0 +1,3 @@
+[submodule "mpfit"]
+	path = mpfit
+	url = https://github.com/abeelen/mpfit.git
